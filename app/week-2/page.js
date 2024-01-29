@@ -6,6 +6,11 @@ export default function Page() {
     <main>
       <h1>Shopping List</h1>
       <StudentInfo />
+      <h1>
+      <a href='/Home' style={{ color: 'blue' }}>
+            Home
+          </a>
+      </h1>
     </main>
   );
 }
