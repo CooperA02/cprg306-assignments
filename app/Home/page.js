@@ -22,6 +22,9 @@ export default function Page() {
       <a href='/week-7'>
         <h1>Week-7</h1>
       </a>
+      <a href='/week-8'>
+        <h1>Week-8</h1>
+      </a>
 
       <h1>CPRG 306: Web Development 2 - Practice Pages</h1>
       <a href='/practice'>
